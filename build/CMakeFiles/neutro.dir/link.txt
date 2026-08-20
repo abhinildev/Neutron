@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/neutro.dir/link.d CMakeFiles/neutro.dir/src/main.cpp.o -o neutro

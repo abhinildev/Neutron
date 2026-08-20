@@ -1,0 +1,3 @@
+/home/abhinildev/Compiler/neutron/build/CMakeFiles/neutro.dir
+/home/abhinildev/Compiler/neutron/build/CMakeFiles/edit_cache.dir
+/home/abhinildev/Compiler/neutron/build/CMakeFiles/rebuild_cache.dir
