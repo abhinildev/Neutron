@@ -148,4 +148,7 @@ CMakeFiles/neutro.dir/src/main.cpp.o: \
  /usr/include/c++/15/vector /usr/include/c++/15/bits/stl_uninitialized.h \
  /usr/include/c++/15/bits/stl_vector.h \
  /usr/include/c++/15/bits/stl_bvector.h \
- /usr/include/c++/15/bits/vector.tcc
+ /usr/include/c++/15/bits/vector.tcc \
+ /home/abhinildev/Compiler/neutron/src/parser.hpp \
+ /home/abhinildev/Compiler/neutron/src/tokenization.hpp \
+ /home/abhinildev/Compiler/neutron/src/generation.hpp

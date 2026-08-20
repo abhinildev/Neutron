@@ -3,6 +3,9 @@
 
 CMakeFiles/neutro.dir/src/main.cpp.o
  /home/abhinildev/Compiler/neutron/src/main.cpp
+ /home/abhinildev/Compiler/neutron/src/generation.hpp
+ /home/abhinildev/Compiler/neutron/src/parser.hpp
+ /home/abhinildev/Compiler/neutron/src/tokenization.hpp
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
